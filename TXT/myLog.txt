@@ -1,0 +1,6 @@
+# START: Tue 29 Aug 2023 16:25
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+
+ZCZC W00 10 L00 GitHub related stuff
