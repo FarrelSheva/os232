@@ -1,2 +1,3 @@
 # os232
-repository for my os course 
+
+|| [LOG](TXT/mylog.txt) || [GITHUB](https://github.com/FarrelSheva/os232/) ||
