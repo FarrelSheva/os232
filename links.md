@@ -11,7 +11,7 @@ VERY condesed video about Linux commands that can be useful, complete with Bookm
 Interesting TedTalk from the founder of the Free Software Movement and The GNU Project, Richard Stallma AKA rms.
 Talks about the importance of free software, and the dangers of nonfree software on society.
 <br>
-### * [https://www.youtube.com/watch?v=JDfo2Lc7iLU](https://www.youtube.com/watch?v=JDfo2Lc7iLU)
+### * [The Linux Kernel: What it is, and how it works!](https://www.youtube.com/watch?v=JDfo2Lc7iLU)
 Short video on kernels. Explains why linux's kernel is special.
 
 
