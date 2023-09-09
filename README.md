@@ -1,3 +1,1 @@
-# os232
-
-|| [LOG](TXT/mylog.txt) || [GITHUB](https://github.com/FarrelSheva/os232/) ||
+OS 2023 Course repository
