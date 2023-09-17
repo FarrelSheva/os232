@@ -4,6 +4,7 @@ permalink: LINKS/
 
 # LINKS
 
+## week 1
 ### * [60 Linux Commands you NEED to know (in 10 minutes)](https://www.youtube.com/watch?v=gd7BXuUQ91w) ---
 VERY condesed video about Linux commands that can be useful, complete with Bookmarks in the description
 <br>
@@ -14,5 +15,6 @@ Talks about the importance of free software, and the dangers of nonfree software
 ### * [The Linux Kernel: What it is, and how it works!](https://www.youtube.com/watch?v=JDfo2Lc7iLU)
 Short video on kernels. Explains why linux's kernel is special.
 
-
+## week 2
+### * [The RSA Encryption Algorithm (1 of 2: Computing an Example)](https://www.youtube.com/watch?v=4zahvcJ9glg) AND [The RSA Encryption Algorithm (2 of 2: Generating the Keys)](https://www.youtube.com/watch?v=oOcTVTpUsPQ)
 <hr>
