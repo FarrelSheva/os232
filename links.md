@@ -17,4 +17,5 @@ Short video on kernels. Explains why linux's kernel is special.
 
 ## week 2
 ### * [The RSA Encryption Algorithm (1 of 2: Computing an Example)](https://www.youtube.com/watch?v=4zahvcJ9glg) AND [The RSA Encryption Algorithm (2 of 2: Generating the Keys)](https://www.youtube.com/watch?v=oOcTVTpUsPQ)
+Very engaging explanation of the RSA encryption.
 <hr>
