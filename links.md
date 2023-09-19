@@ -21,7 +21,7 @@ Very engaging explanation of the RSA encryption.
 
 ## week 3 
 ### * [What are Drive Partitions?](https://www.youtube.com/watch?v=AeUM4kR67XQ)
-Quick video about Drive Partitionin, with fun illustrations and explanations.
+Quick video about Drive Partitioning, with fun illustrations and explanations.
 
 ### * [IBM Documentation AIX, Files System](https://www.ibm.com/docs/en/aix/7.1?topic=management-file-systems)
 VERY detailed Documentation of the file system of the AIX, IBM's Unix-based OS. It has links about general file system concepts. 
