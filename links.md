@@ -25,4 +25,7 @@ Quick video about Drive Partitionin, with fun illustrations and explanations.
 
 ### * [IBM Documentation AIX, Files System](https://www.ibm.com/docs/en/aix/7.1?topic=management-file-systems)
 VERY detailed Documentation of the file system of the AIX, IBM's Unix-based OS. It has links about general file system concepts. 
+
+### * [Rochester Institute of Technology, Unix Intro access permission](https://www.cis.rit.edu/class/simg211/unixintro/Access_Permissions.html)
+Short section of RIT's Intro to Unix Class on Acess Permissions. 
 <hr>
