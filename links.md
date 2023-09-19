@@ -18,4 +18,11 @@ Short video on kernels. Explains why linux's kernel is special.
 ## week 2
 ### * [The RSA Encryption Algorithm (1 of 2: Computing an Example)](https://www.youtube.com/watch?v=4zahvcJ9glg) AND [The RSA Encryption Algorithm (2 of 2: Generating the Keys)](https://www.youtube.com/watch?v=oOcTVTpUsPQ)
 Very engaging explanation of the RSA encryption.
+
+## week 3 
+### * [What are Drive Partitions?](https://www.youtube.com/watch?v=AeUM4kR67XQ)
+Quick video about Drive Partitionin, with fun illustrations and explanations.
+
+### * [IBM Documentation AIX, Files System](https://www.ibm.com/docs/en/aix/7.1?topic=management-file-systems)
+VERY detailed Documentation of the file system of the AIX, IBM's Unix-based OS. It has links about general file system concepts. 
 <hr>
