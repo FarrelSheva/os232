@@ -28,4 +28,9 @@ VERY detailed Documentation of the file system of the AIX, IBM's Unix-based OS. 
 
 ### * [Rochester Institute of Technology, Unix Intro access permission](https://www.cis.rit.edu/class/simg211/unixintro/Access_Permissions.html)
 Short section of RIT's Intro to Unix Class on Acess Permissions. 
+
+## week 4 
+### * [Virtual Memory: 5 Page Tables](https://www.youtube.com/watch?v=KNUJhZCQZ9c)
+Part of a full course on Virtual memory, this one talks about page tables, altough the full set is available on YouTube.
+
 <hr>
