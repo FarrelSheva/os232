@@ -33,4 +33,11 @@ Short section of RIT's Intro to Unix Class on Acess Permissions.
 ### * [Virtual Memory: 5 Page Tables](https://www.youtube.com/watch?v=KNUJhZCQZ9c)
 Part of a full course on Virtual memory, this one talks about page tables, altough the full set is available on YouTube.
 
+## week 5
+### * [What is virtual memory? -  Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ)
+Much more condensed version of last week's playlist, although skimps out on manythings, helped me prepare for the quiz. Thank you Gary!
+
+### * [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s)
+Overview of memory management systems, explains each one and summarizes them each.
+
 <hr>
