@@ -40,4 +40,10 @@ Much more condensed version of last week's playlist, although skimps out on many
 ### * [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s)
 Overview of memory management systems, explains each one and summarizes them each.
 
+## week 6
+### * [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/#:~:text=The%20fork%20system%20call%20allows,copy%20of%20the%20parent%20process.)
+Short overview of fork()
+
+### * [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+VERY SIMILAR to the book, but shortens and explains it
 <hr>
