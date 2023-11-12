@@ -6,6 +6,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W07 90 L09 Weekly Assignments
+ZCZC W07 07 l05 QUIZ
+ZCZC W07 20 L03 GitHub Related
 ZCZC W06 15 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W06 30 L73 Gaming including Board Games.
 ZCZC W06 99 L02 CLASSROOM/ZOOM meetings related
