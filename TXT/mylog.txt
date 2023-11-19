@@ -6,6 +6,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W08 05 L03 GitHub Related
+ZCZC W08 90 L09 Weekly Assignments
+ZCZC W08 07 l05 QUIZ
 ZCZC W07 90 L09 Weekly Assignments
 ZCZC W07 07 l05 QUIZ
 ZCZC W07 20 L03 GitHub Related
