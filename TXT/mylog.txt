@@ -6,6 +6,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W09 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W09 120 L09 Weekly Assingments
+ZCZC W09 07 L05 QUIZ
 ZCZC W08 05 L03 GitHub Related
 ZCZC W08 90 L09 Weekly Assignments
 ZCZC W08 07 l05 QUIZ
